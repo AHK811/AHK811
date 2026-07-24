@@ -33,7 +33,7 @@ alt="Typing SVG" />
 <i>"Building tomorrow's intelligent software, one commit at a time."</i>
 
 </div>
----
+
 
 ## 👋 About Me
 
@@ -43,8 +43,6 @@ I'm passionate about software engineering, artificial intelligence, and building
 
 My long-term goal is to build reliable AI systems and contribute to technology that has a lasting, positive impact.
 
----
-
 ## 🚀 Current Focus
 
 - 🧠 Building **Brægn**
@@ -53,8 +51,6 @@ My long-term goal is to build reliable AI systems and contribute to technology t
 - 🌐 Full-Stack Development
 - ☁️ Cloud Technologies
 - 📚 Computer Science Fundamentals
-
----
 
 ## 🛠 Tech Stack
 
@@ -91,7 +87,6 @@ My long-term goal is to build reliable AI systems and contribute to technology t
 </p>
 
 </div>
----
 
 
 ## 🌟 Featured Projects
@@ -118,8 +113,6 @@ My long-term goal is to build reliable AI systems and contribute to technology t
 - Distributed Systems
 - DevOps
 
----
-
 ## 💡 Philosophy
 
 > Intelligence Beyond Limits
@@ -130,7 +123,6 @@ My long-term goal is to build reliable AI systems and contribute to technology t
 >
 > "Great technology is built through patience, discipline, and relentless learning."
 
----
 
 ## 🤝 Let's Connect
 
