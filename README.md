@@ -28,8 +28,6 @@ alt="Typing SVG" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
-
 <div align="center">
 
   <!-- Live Profile Views (Komarev) -->
@@ -41,6 +39,8 @@ alt="Typing SVG" />
 <!-- Live Total Stars Count (All Repositories) -->
   <img src="https://img.shields.io/github/stars/Ahk811?affiliations=OWNER&style=for-the-badge&color=50C878&label=STARS" alt="Total Stars" />
 </div>
+
+<br><br>
 
 <i>"Building tomorrow's intelligent software, one commit at a time."</i>
 
