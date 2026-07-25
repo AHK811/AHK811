@@ -30,6 +30,18 @@ alt="Typing SVG" />
 
 <br><br>
 
+<div align="center">
+
+  <!-- Live Profile Views (Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=Braegn&style=for-the-badge&color=50C878&label=VISITORS" alt="Profile Views" />
+
+  <!-- Live Followers Count (Shields.io) -->
+  <img src="https://img.shields.io/github/followers/Braegn?style=for-the-badge&color=50C878&label=FOLLOWERS" alt="Followers" />
+
+<!-- Live Total Stars Count (All Repositories) -->
+  <img src="https://img.shields.io/github/stars/Braegn?affiliations=OWNER&style=for-the-badge&color=50C878&label=STARS" alt="Total Stars" />
+</div>
+
 <i>"Building tomorrow's intelligent software, one commit at a time."</i>
 
 </div>
