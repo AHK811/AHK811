@@ -28,6 +28,10 @@ alt="Typing SVG" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://abdulhannnankashif.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-50C878?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
 <div align="center">
 
   <!-- Live Profile Views (Komarev) -->
